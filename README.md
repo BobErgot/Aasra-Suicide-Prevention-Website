@@ -129,3 +129,5 @@ For a detailed case study, visit the [full article](https://bobbydoshi.com/india
 ---
 
 Feel free to reach out to me for any queries or support regarding this project.
+
+Note: Neither I, the volunteers, nor Enroot Innovation Foundation are associated with Aasra in any form. This project was a contribution from our team between 2018-2021 to improve suicide prevention helpline services for people in distress. Aasra was approached due to its past contributions in this field.
